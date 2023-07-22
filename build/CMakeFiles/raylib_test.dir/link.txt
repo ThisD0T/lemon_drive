@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/raylib_test.dir/main.cpp.o -o raylib_test  -Wl,-rpath,/usr/local/lib /usr/local/lib/libraylib.so 

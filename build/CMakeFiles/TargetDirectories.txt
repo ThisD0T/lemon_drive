@@ -1,0 +1,3 @@
+/home/piko/dev/cpp/raylib/test/build/CMakeFiles/raylib_test.dir
+/home/piko/dev/cpp/raylib/test/build/CMakeFiles/edit_cache.dir
+/home/piko/dev/cpp/raylib/test/build/CMakeFiles/rebuild_cache.dir
